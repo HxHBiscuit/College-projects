@@ -1,1 +1,1 @@
-# Learning-python-and-competitve-coding
+# Projects done in college
